@@ -1,4 +1,4 @@
-# 🔥 MUKUL KUMAR 
+#  MUKUL KUMAR 
 `Software Engineer | DSA Mentor | Full-Stack Developer`
 
 [![Email](https://img.shields.io/badge/techmukul001@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:techmukul001@gmail.com)
@@ -23,7 +23,7 @@
 
 ## 🛠️ Projects
 ### **Keeper App** | React.js
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF7139?style=flat&logo=vercel&logoColor=white)](#) *(add project link)*  
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF7139?style=flat&logo=vercel&logoColor=white)](#) 
 Google Keep clone with CRUD operations
 
 ### **Real-Time Chat App** | Node.js + Socket.io
