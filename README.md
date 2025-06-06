@@ -56,6 +56,7 @@ Dynamic weather forecasting application
 - **Execom Member** @ IEEE - NSUT  
 
 ## 🚀 Coding Profiles (Live Stats)
+
 <h2 align="center">🚀 Coding Profiles (Live Stats)</h2>
 
 <table align="center" cellspacing="20">
@@ -63,15 +64,14 @@ Dynamic weather forecasting application
     <td>
       <div style="background-color:#000; border:2px solid red; padding:12px; border-radius:12px; width:315px; text-align:center;">
         <a href="https://leetcode.com/u/mukul18_11/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="60" alt="LeetCode Logo"/>
+          .
           <img src="https://leetcard.jacoblin.cool/mukul18_11?theme=dark&ext=heatmap" width="290"/>
         </a>
       </div>
     </td>
     <td>
       <div style="background-color:#000; border:2px solid red; padding:12px; border-radius:12px; width:315px; text-align:center;">
-        <a href="https://codeforces.com/profile/mukul18_11">
-          <img src="https://sta.codeforces.com/s/71148/images/codeforces-logo-with-telegram.png" width="100" alt="Codeforces Logo"/>
+        <a href="https://codeforces.com/profile/mukul18_11">.
           <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mukul18_11&theme=dracula" width="290"/>
         </a>
       </div>
@@ -83,7 +83,6 @@ Dynamic weather forecasting application
       <div style="background-color:#000; border:2px solid red; padding:12px; border-radius:12px; width:315px; text-align:center;">
         <a href="https://www.codechef.com/users/mukul_1811">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/CodeChef_Logo.svg/1200px-CodeChef_Logo.svg.png" width="80" alt="CodeChef Logo"/>
-          <div style="color:white; font-weight:bold; margin-top:8px;">CodeChef</div>
         </a>
       </div>
     </td>
@@ -91,15 +90,16 @@ Dynamic weather forecasting application
       <div style="background-color:#000; border:2px solid red; padding:12px; border-radius:12px; width:315px; text-align:center;">
         <a href="https://www.geeksforgeeks.org/user/mukul18_11/">
           <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="50" alt="GFG Logo"/>
-          <div style="color:white; font-weight:bold; margin-top:8px;">GeeksforGeeks</div>
         </a>
       </div>
     </td>
   </tr>
 </table>
 
-<div style="background-color:#000; border:2px solid red; padding:12px; border-radius:12px; width:max-content; text-align:center;">
-  <a href="https://github.com/mukul18-11">
-    <img src="https://github-readme-stats.vercel.app/api?username=mukul18-11&show_icons=true&theme=dark" alt="GitHub Stats"/>
-  </a>
+<div align="center" style="margin: 0 auto; max-width: 100%;">
+  <div style="background-color:#000; border:2px solid #FF4D4D; padding:20px; border-radius:12px; display: inline-block;">
+    <a href="https://github.com/mukul18-11">
+      <img src="https://github-readme-stats.vercel.app/api?username=mukul18-11&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
+    </a>
+  </div>
 </div>
