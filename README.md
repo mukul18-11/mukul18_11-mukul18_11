@@ -95,11 +95,3 @@ Dynamic weather forecasting application
     </td>
   </tr>
 </table>
-
-<div align="center" style="margin: 0 auto; max-width: 100%;">
-  <div style="background-color:#000; border:2px solid #FF4D4D; padding:20px; border-radius:12px; display: inline-block;">
-    <a href="https://github.com/mukul18-11">
-      <img src="https://github-readme-stats.vercel.app/api?username=mukul18-11&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
-    </a>
-  </div>
-</div>
